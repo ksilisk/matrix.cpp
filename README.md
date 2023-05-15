@@ -10,5 +10,6 @@ C++ Library for working with matrices. With Unit tests.
       $ make
 ## Tests
 Unit tests with `gtest.h` C++ library.
+      
       $ cd matrix.cpp
       $ make test
